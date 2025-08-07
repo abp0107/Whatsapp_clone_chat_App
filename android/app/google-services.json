@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340253680497",
+    "project_id": "fir-def9e",
+    "storage_bucket": "fir-def9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340253680497:android:cd044c13ac7c6fadc2ccd0",
+        "android_client_info": {
+          "package_name": "com.example.TwinBox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYU1J0tanaOZ_7RZv-vM7iWoCLoBrnZ8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
